@@ -12,6 +12,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 
 **DAY 1: MONDAY - FOUNDATIONS**
 **Topics:** Variables, Lists, Dictionaries, and Comprehensions
+
 **Learning Objectives:**
 - Understand how variables serve as data containers in analysis workflows
 - Implement lists for ordered data collections and sequences
@@ -29,6 +30,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 
 **DAY 2: TUESDAY - DATA PROCESSING FUNCTIONS**
 **Topics:** Functions for Data Analysis
+
 **Learning Objectives:**
 - Design reusable functions for common data operations
 - Implement data validation and cleaning functions
@@ -46,6 +48,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 
 **DAY 3: WEDNESDAY - STRUCTURED DATA SYSTEMS**
 **Topics:** Classes and Object-Oriented Data Analysis
+
 **Learning Objectives:**
 - Design classes to represent data entities and analysis systems
 - Implement methods for data operations within classes
@@ -63,6 +66,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 
 **DAY 4: THURSDAY - INTEGRATED ANALYSIS PROJECT**
 **Topics:** Comprehensive Data Analysis System
+
 **Learning Objectives:**
 - Integrate variables, data structures, functions, and classes
 - Develop a complete sales analysis and reporting system
