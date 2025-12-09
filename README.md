@@ -6,11 +6,13 @@
 ---
 
 **OVERVIEW**
+
 This week we will explore how Python's fundamental programming constructs are applied in real-world data analysis scenarios. Each day builds upon previous concepts, culminating in the ability to create structured, efficient data analysis systems.
 
 ---
 
 **DAY 1: MONDAY - FOUNDATIONS**
+
 **Topics:** Variables, Lists, Dictionaries, and Comprehensions
 
 **Learning Objectives:**
@@ -29,6 +31,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 ---
 
 **DAY 2: TUESDAY - DATA PROCESSING FUNCTIONS**
+
 **Topics:** Functions for Data Analysis
 
 **Learning Objectives:**
@@ -47,6 +50,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 ---
 
 **DAY 3: WEDNESDAY - STRUCTURED DATA SYSTEMS**
+
 **Topics:** Classes and Object-Oriented Data Analysis
 
 **Learning Objectives:**
@@ -65,6 +69,7 @@ This week we will explore how Python's fundamental programming constructs are ap
 ---
 
 **DAY 4: THURSDAY - INTEGRATED ANALYSIS PROJECT**
+
 **Topics:** Comprehensive Data Analysis System
 
 **Learning Objectives:**
